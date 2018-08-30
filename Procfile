@@ -1,1 +1,1 @@
-web: python3 zumpy.py
+worker: python3 zumpy.py
