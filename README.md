@@ -57,11 +57,7 @@ Também será uma maneira de familiarizamos com a estrutura de projetos e aplica
 
 Primeiro passo é clonar esse repositório para sua máquina. Assim poderá editar e enviar arquivos para esse projeto.
 
-#### Como clonar
-
-Você tem algumas opções:  
-
-Pegue o link do repositório.
+### Como clonar  
 
 ![](https://a.imagem.app/2fRk0.png)
 
@@ -77,7 +73,7 @@ Recomendo usar com o [GitHub Desktop](https://desktop.github.com/) que por sinal
 ou
 
 `Terminal`
-- Recomendo usar o git só se você tiver domínio do que está fazendo.
+-  Usar o git só se você tiver domínio do que está fazendo.
 
 
     git clone https://github.com/Maratufu/zumpy.git
