@@ -1,6 +1,6 @@
-from botinfo import token
+from botinfo import tk
 from telegram.ext import Updater, CommandHandler
-updater = Updater(token=token)
+updater = Updater(token=tk)
 
 dispatcher = updater.dispatcher
 
