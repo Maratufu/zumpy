@@ -14,7 +14,7 @@ Também será uma maneira de familiarizamos com a estrutura de projetos e aplica
 
   Projeto totalmente didático. O intuito aqui é aprender, portanto seria muito bom termos a prática de explicar e orientar as pessoas sobre qualquer alteração no código e no projeto.
 
----
+___
 
 ### O que é ...
 
