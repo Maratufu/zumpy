@@ -8,9 +8,8 @@ def hello(bot, update):
         'Hello {}'.format(update.message.from_user.first_name))
 
 
-updater = Updater(tk)
-
 updater.dispatcher.add_handler(CommandHandler('hello', hello))
+
 
 updater.start_polling()
 updater.idle()
