@@ -1,6 +1,6 @@
-from botinfo import tk
+import os
 from telegram.ext import Updater, CommandHandler
-updater = Updater(token=tk)
+updater = Updater(token=os.environ['TOKEN'])
 
 
 def hello(bot, update):
