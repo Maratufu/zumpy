@@ -2,15 +2,15 @@ from botinfo import tk
 from telegram.ext import Updater, CommandHandler
 updater = Updater(token=tk)
 
-dispatcher = updater.dispatcher
+
+def hello(bot, update):
+    update.message.reply_text(
+        'Hello {}'.format(update.message.from_user.first_name))
 
 
-def start(bot, update):
-    bot.send_message(chat_id=update.message.chat_id, text='\
-     Olá, fui ligado! :) ')
+updater = Updater('YOUR TOKEN HERE')
 
-    start_handler = CommandHandler('start', start)
-    dispatcher.add_handler(start_handler)
-
+updater.dispatcher.add_handler(CommandHandler('hello', hello))
 
 updater.start_polling()
+updater.idle()
