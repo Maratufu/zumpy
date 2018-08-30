@@ -50,3 +50,36 @@ Também será uma maneira de familiarizamos com a estrutura de projetos e aplica
 
 
   + [Sobre python-telegram-bot](https://python-telegram-bot.readthedocs.io/en/stable/)
+
+  ---
+
+  ### Por onde começar?
+
+Primeiro passo é clonar esse repositório para sua máquina. Assim poderá editar e enviar arquivos para esse projeto.
+
+#### Como clonar
+
+Você tem algumas opções:  
+
+Pegue o link do repositório.
+
+![](https://a.imagem.app/2fRk0.png)
+
+_* Se você já tiver o GitHub Desktop, só clicar em Open in Desktop_
+
+`GitHub Desktop`  
+
+
+Recomendo usar com o [GitHub Desktop](https://desktop.github.com/) que por sinal é integrado com o editor Atom, facilitando abrir o projeto no próprio editor.
+
+![gdsk](https://a.imagem.app/2fErW.png)
+
+ou
+
+`Terminal`
+- Recomendo usar o git só se você tiver domínio do que está fazendo.
+
+
+    git clone https://github.com/Maratufu/zumpy.git
+
+esse comando irá clonar na pasta em que você estiver acessando no terminal.    
