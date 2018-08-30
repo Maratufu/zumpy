@@ -1,6 +1,7 @@
 import os
+import logging
 from telegram.ext import Updater, CommandHandler
-updater = Updater(token=os.environ['TOKEN'])
+updater = Updater(token=os.environ['TOKEN.'])
 
 
 def hello(bot, update):
@@ -10,6 +11,8 @@ def hello(bot, update):
 
 updater.dispatcher.add_handler(CommandHandler('hello', hello))
 
+logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s\
+ - %(message)s',  level=logging.INFO)
 
 updater.start_polling()
 updater.idle()
