@@ -3,7 +3,7 @@
 Curso [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/)  
 de Fernando Massonori.  
 
-Status: &#020; 🚧
+Status: &nbsp; 🚧
 ___
 
 A idéia desse projeto é aplicarmos a linguagem Python e desenvolver um BOT com a função de auxiliar o grupo do [Telegram](https://www.telegram.com.br) Python Para Zumbis.
@@ -45,7 +45,8 @@ Também será uma maneira de familiarizamos com a estrutura de projetos e aplica
 
   >The telegram.ext submodule is built on top of the pure API implementation. It provides an easy-to-use interface and takes some work off the programmer, so you [don't have to repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself).
   >
-  >/pt-br/ O sub módulo telegram.ext é construído puramente em cima da API de implementação. Isso proporciona uma interface fácil de utilizar e você não precisa ficar se repetindo - [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+  >`pt-br`  
+  O sub módulo telegram.ext é construído puramente em cima da API de implementação. Isso proporciona uma interface fácil de utilizar e você [não precisa ficar se repetindo](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself).
 
 
   + [Sobre python-telegram-bot](https://python-telegram-bot.readthedocs.io/en/stable/)
