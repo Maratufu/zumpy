@@ -23,7 +23,7 @@ detalhe importante, o arquivo não tem extensão declarada.
 
 é um arquivo conhecido nos módulos python. Está no diretório do projeto para indicar ao interpretador python que aqui tem arquivos python!  
 
-![Sobre __init__.py](https://pt.stackoverflow.com/questions/96608/para-que-serve-o-arquivo-init-py-em-m%c3%b3dulos-no-python#96796)
+[Sobre __init__.py](https://pt.stackoverflow.com/questions/96608/para-que-serve-o-arquivo-init-py-em-m%c3%b3dulos-no-python#96796)
 
 `requirements.txt`  
 
